@@ -1,0 +1,3 @@
+(executable
+ (name AoC_2021)
+ (libraries core lib))
