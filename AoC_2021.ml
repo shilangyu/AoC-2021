@@ -1,1 +1,5 @@
-let () = Lib.Day01.run ()
+open Lib
+
+let () =
+  Day01.run ();
+  Day02.run ()
